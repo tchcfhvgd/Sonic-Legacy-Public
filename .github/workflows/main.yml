@@ -69,7 +69,7 @@ jobs:
           haxelib install hscript 2.5.0
           haxelib install hxvlc 1.2.0
           haxelib git linc_luajit https://github.com/Sirox228/linc_luajit
-          haxelib install extension-androidtools https://github.com/MaysLastPlay77/extension-androidtools
+          haxelib install extension-androidtools
           haxelib install hxcpp-debug-server
           haxelib list
       - name: Create Version Tag
