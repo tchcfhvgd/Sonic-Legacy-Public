@@ -11,8 +11,8 @@ import lime.app.Application;
 import meta.states.MusicBeatState;
 import flixel.FlxG;
 import openfl.display.BitmapData;
-import meta.states.substate.transitions.SwipeTransitionSubstate;
-import meta.states.substate.transitions.FadeTransition;
+import meta.states.substate.Transitions.SwipeTransitionSubstate;
+import meta.states.substate.Transitions.FadeTransition;
 import flixel.addons.transition.FlxTransitionableState;
 import meta.states.desktop.*;
 
