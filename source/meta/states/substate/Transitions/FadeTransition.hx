@@ -1,4 +1,4 @@
-package meta.states.substate.transitions;
+package meta.states.substate.Transitions;
 
 import flixel.addons.transition.TransitionSubstate;
 import flixel.addons.transition.FlxTransitionSprite.TransitionStatus;
